@@ -1,4 +1,4 @@
-//% weight=0 color=#b33c7e icon="\uf2db" block="sensors"
+//% weight=0 color=#b33c7e icon="\uf2db" block="Gigo DDM Motor"
 namespace sensors {
 	//% blockId=DDMmotor block="Mcontrol pin %McontrolPin|direction of Mcontrol(0~1) %McontrolValue|MSpeed pin %MSpeedPin|speed of MSpeed(0~255) %MSpeedValue" blockExternalInputs=false
     //% McontrolValue.min=0 McontrolValue.max=1 
